@@ -58,11 +58,9 @@ class NewsController extends GetxController {
     baseApi = "https://newsapi.org/v2/top-headlines?pageSize=10&page=$pageNum&";
     baseApi += country == '' ? 'country=in&' : 'country=$country&';
     baseApi += category == '' ? '' : 'category=$category&';
-<<<<<<< HEAD
+
     baseApi += 'apiKey=bdfd25ce2c9b4a9aa53baa63e89a5274';
-=======
     baseApi += 'apiKey=xxxxxxxxxxxxxx';
->>>>>>> 58c6a61 (Update)
     if (channel != '') {
       country.value = '';
       category.value = '';

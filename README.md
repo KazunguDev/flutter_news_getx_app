@@ -2,15 +2,7 @@
 
 Live News App Using Rest API with Searching Functionality with GetX and MVC.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2023-12-08 123914](https://github.com/KazunguDev/flutter_news_getx_app/assets/88532016/2fbea9c1-2091-4cbc-bf82-d36a66f2e030)
+![Screenshot 2023-12-08 123855](https://github.com/KazunguDev/flutter_news_getx_app/assets/88532016/95d35ef2-8003-4017-b0f9-2dfa4fe76dba)
